@@ -3,3 +3,4 @@ more text
 cat /tmp/out
 file1 content
 more text
+rm /tmp/out
